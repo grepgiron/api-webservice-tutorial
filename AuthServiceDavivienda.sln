@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServiceDavivienda", "AuthServiceDavivienda\AuthServiceDavivienda.csproj", "{489A0016-A494-4332-B9A9-05A718D9401B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489A0016-A494-4332-B9A9-05A718D9401B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489A0016-A494-4332-B9A9-05A718D9401B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489A0016-A494-4332-B9A9-05A718D9401B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489A0016-A494-4332-B9A9-05A718D9401B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6B0CE8-5773-4EA9-8DA4-BAA155C338EF}
+	EndGlobalSection
+EndGlobal
